@@ -1,0 +1,16 @@
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.exe
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.dll
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.pdb
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.dll
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.pdb
+C:\Users\Alberto\Desktop\Pedro\Dev\.NET\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
